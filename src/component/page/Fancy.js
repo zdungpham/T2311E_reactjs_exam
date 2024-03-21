@@ -1,0 +1,11 @@
+import '../../Fancy.css';
+
+function Fancy(props){
+    return(
+        <div className="col-xl-9">
+        <p>gjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfgh
+        fgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjh fhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghfgjhfhjfjfghf</p>
+        </div>
+    );
+    }
+export default Fancy
